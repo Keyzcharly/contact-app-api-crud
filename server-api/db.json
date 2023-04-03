@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "82d04229-7b9b-445b-a689-4642a4e0d585",
+      "name": "john",
+      "email": "johnwiley@gmail.com"
+    },
+    {
+      "id": "0438d8ea-e48b-49e2-be5e-50c21b8f34c3",
+      "name": "larry",
+      "email": "larryblazing@yahoo.au"
+    },
+    {
+      "id": "1f717f1f-5236-4959-9980-94063261c848",
+      "name": "chocho",
+      "email": "mangolily@aol.com"
+    }
+  ]
+}
